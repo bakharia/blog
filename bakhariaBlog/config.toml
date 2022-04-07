@@ -1,0 +1,4 @@
+baseURL = 'http://bakharia.github.io'
+languageCode = 'en-us'
+title = 'bakharia Blog'
+theme = "hugo-PaperMod"
