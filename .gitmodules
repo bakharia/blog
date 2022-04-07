@@ -1,0 +1,4 @@
+[submodule "bakhariaBlog/bakharia.github.io"]
+	path = bakhariaBlog/bakharia.github.io
+	url = https://github.com/bakharia/bakharia.github.io.git
+	branch = main
