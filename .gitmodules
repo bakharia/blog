@@ -2,3 +2,6 @@
 	path = bakhariaBlog/bakharia.github.io
 	url = https://github.com/bakharia/bakharia.github.io.git
 	branch = main
+[submodule "main"]
+	path = bakhariaBlog/public
+	url = https://github.com/bakharia/bakharia.github.io.git
