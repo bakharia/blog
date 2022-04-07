@@ -1,7 +1,7 @@
 ---
 title: "Post"
 date: 2022-04-07T13:12:26-04:00
-draft: true
+draft: false
 ---
 
 This is some content
